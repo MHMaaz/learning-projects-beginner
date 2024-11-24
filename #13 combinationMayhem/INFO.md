@@ -1,0 +1,3 @@
+This project is basically a game in which the user has to guess the right combination of switches ranging from switch number one to how many the user likes. If the user fails to guess the right order, the progress made by the user will be switched back to default. It is basically the same mechanics that I tried to bring into the code that is used in most games where you have to guess the right order of something.
+To make the game challenging, theres a life system and each difficulty has a different life range. Once the user runs out of those lives by making mistakes in guessing the order, they loose.
+This code is built to run in an output window of either VS code, interactive prompt or any other area in which input can be taken and output can be recieved.
