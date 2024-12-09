@@ -1,0 +1,1 @@
+This simple project I created generates passwords that are as strong as steel. Randomly selecting the length, and also what is generated as password including numbers, lower case and upper case characters, symbols etc.
