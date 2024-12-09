@@ -1,0 +1,1 @@
+This project generates a roman number that should be a whole number from 1 upto 999. This program is a simple one so i kept it simple and only let it convert upto 999. Though it's definitely possible to go further. 
